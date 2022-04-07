@@ -26,7 +26,7 @@ function validateemail(e) {
         document.querySelector(".error").innerHTML = "Thank you!";
         document.querySelector(".error").style.visibility = "visibile";
         //document.querySelector(".icon-error").style.visibility = "hidden"
-        document.querySelector(".input__class").style.marginBottom = "1.5rem"
+       // document.querySelector(".input__class").style.marginBottom = "0rem"
         document.querySelector(".input__class").style.border = "2px solid transparent";
         document.querySelector(".btn-contact").style.border = "2px solid transparent";
       
